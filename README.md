@@ -124,10 +124,10 @@ Daily Capacity values (max 1,013) cannot be directly compared to Unit Quantity t
 2. **Carrier Performance Analysis** — avg cost per shipment bar chart, carrier scorecard table, Cost-to-Speed Score comparison
 3. **Warehouse Analysis** — order volume by plant bar chart, warehouse scorecard with on-time rates and capacity
 4. **Route Analysis** — avg freight cost by route bar chart, full route breakdown table with PORT09 anomaly visible
-> ![Executive Overview](Dashboard/Supply_Chain_Logistics_Cost_&_Efficiency_Analysis-0001.jpg) 
-> ![Carrier Performance Analysis](Dashboard/Supply_Chain_Logistics_Cost_&_Efficiency_Analysis-0002.jpg) 
-> ![Warehouse Analysis](Dashboard/Supply_Chain_Logistics_Cost_&_Efficiency_Analysis-0003.jpg)
-> ![Route Analysis](Dashboard/Supply_Chain_Logistics_Cost_&_Efficiency_Analysis-0004.jpg) 
+> ![Executive Overview](Dashboard/Supply Chain Logistics Cost & Efficiency Analysis-0001.jpg)
+> ![Carrier Performance Analysis](Dashboard/Supply Chain Logistics Cost & Efficiency Analysis-0002.jpg)
+> ![Warehouse Analysis](Dashboard/Supply Chain Logistics Cost & Efficiency Analysis-0003.jpg)
+> ![Route Analysis](Dashboard/Supply Chain Logistics Cost & Efficiency Analysis-0004.jpg)
 
 ---
 
